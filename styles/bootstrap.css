@@ -3180,7 +3180,7 @@ fieldset:disabled .btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0b5ed7;
+  background-color:  #0c2e8a;
   border-color: #0a58ca;
 }
 
@@ -3219,8 +3219,8 @@ fieldset:disabled .btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  background-color: #50d8af;
+  border-color: #50d8af;
 }
 
 .btn-secondary:hover {
